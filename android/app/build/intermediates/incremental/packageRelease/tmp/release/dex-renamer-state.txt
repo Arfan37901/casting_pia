@@ -1,0 +1,4 @@
+#Tue May 19 13:31:23 PKT 2020
+base.0=E\:\\Projects\\React Native\\casting_pia\\casting_pia\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
